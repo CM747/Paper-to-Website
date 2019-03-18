@@ -1,7 +1,7 @@
 # Paper-to-Website
 Convert a sketch into an actual website layout
 
-Steps:\n
+Steps:/n
 Open command prompt:\n
   change directory to to folder directory\n
   type in: \n
